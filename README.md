@@ -24,4 +24,10 @@ Data API: Factual (https://www.factual.com)
 
 The above information is provided in a Recycler list view to the user with intuitive design and animation.
 
+![Alt Text](https://github.com/rahulmaddineni/TeleRestaurant/blob/master/screenshots/Home.PNG)
+![Alt Text](https://github.com/rahulmaddineni/TeleRestaurant/blob/master/screenshots/NewYork.PNG)
+![Alt Text](https://github.com/rahulmaddineni/TeleRestaurant/blob/master/screenshots/Syracuse.PNG)
+
+
+
 Third party library animation: (https://github.com/wasabeef/recyclerview-animators) is used for Recycler View Animation.
